@@ -24,3 +24,6 @@ This category covers routine management, data aggregation, and standard operatio
 - Market & Client Feedback (Voice of Customer): Gathering common merchant pain points regarding ad products or their adoption rate of new ad tools, and organizing them into a structured checklist to push the product team for optimizations.
 - Daily Team KPI & Management: Managing the sales team's daily call volumes, client visit rates, and the granular execution of commission/incentive schemes.
 - Routine Commercial Negotiations & Standard Contracts: Handling standard brand onboarding, renewals, and ad spend negotiations within the existing policy framework, while regularly reporting the outcomes to you.
+
+## 多層邏輯重疊時的優先順序
+若同一件事同時符合多層（例如 Key Account Churn Risk 也牽涉到 Must Ask First 的資源申請），一律**先當作 Proactive Reminder 處理**——先提醒你，不要等到走完其他流程才通知。

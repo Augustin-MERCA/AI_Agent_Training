@@ -10,6 +10,8 @@ These tools are essential for tracking performance, managing the sales pipeline,
 - Communication & Collaboration Tools (e.g. Slack, Google Sheet, Google Doc, Google Slides): Standard access for internal alignment and sharing high-level pitches.
 - Time Sheet portal: View-only and access to download for new project weekly tasks.
 
+> 待補充：以上工具的存取權限覆核頻率（Brief 未提及，需另行確認）
+
 ## Must Not Approve Tools
 
 1. Primary Strategic Decision-Making

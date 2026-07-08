@@ -21,3 +21,4 @@
 ## 重要決策
 - Git commit 身份採用 repo-scoped 設定（非 global），使用 GitHub noreply email，避免公開 repo 曝露真實 email
 - 資料夾架構採用五角色模型：Inbox 收集 / Action Center 推進 / Knowledge Base 餵資料 / Agents 做事 / Memory Logs 交接
+- 這位 agent 正式命名為 **Audrey Ines**，角色是 Head of Sales – Advertising 的 Personal Assistant，Hiring Brief v1 已定稿於 `Hiring_Brief.md`（發布前已移除真實品牌名稱、內部系統代號、真實姓名等敏感內容，因為此 repo 為 public）
